@@ -153,7 +153,9 @@ Total Employee: 3
 </p>
 
 ---
+## Licnse
 
+[MIT License](LICENSE)
 <div align="center">
 
 ⭐ **If you like this project, give it a star!** ⭐
@@ -163,5 +165,4 @@ Total Employee: 3
 **Made with ❤️ by Bhushan Fulari**
 
 ![](https://komarev.com/ghpvc/?username=bhushanfulari20&color=blueviolet&style=for-the-badge)
-
 </div>
